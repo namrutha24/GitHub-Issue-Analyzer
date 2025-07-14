@@ -1,0 +1,25 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+**/venv/
+
+# VSCode settings
+.vscode/
+
+# Environment variables
+.env
+*.env
+
+# macOS/Windows system files
+.DS_Store
+Thumbs.db
+
+# Python test output
+coverage/
+*.cover
+*.log
